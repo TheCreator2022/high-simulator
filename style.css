@@ -9,3 +9,12 @@ body {
 .blue {
   color: blue;
 }
+
+.tab {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background:-wekbit-linear-gradient(lightcyan, tomato);
+}
