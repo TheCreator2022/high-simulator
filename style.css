@@ -16,5 +16,5 @@ body {
 }
 
 button {
-  background:-wekbit-linear-gradient(lightcyan, tomato);
+  background:-webkit-linear-gradient(lightcyan, tomato);
 }
